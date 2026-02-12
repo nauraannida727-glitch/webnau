@@ -29,6 +29,9 @@ body{
     padding:0 auto;
 }
 
+.menu ul li a {
+    list-style:none;
+}
 
 
 
