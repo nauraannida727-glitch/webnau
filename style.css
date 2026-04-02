@@ -47,6 +47,10 @@ body{
     display:block;
 }
 
+{
+    box-sizing: border-box; 
+}
+
 .content{
     width:90%;
     margin:auto;
